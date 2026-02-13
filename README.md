@@ -2,9 +2,9 @@
 - 👋 Olá, eu sou o Arthur Farias .
 
 - 📜 Estudando Desenvolvimento de Sistema.
-- 
+  
 - 💻 Programação.
-- 
+  
 - 📫 Tocar Violão,Estudar Progamação.
 
 <div align= "center">
